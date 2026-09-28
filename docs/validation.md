@@ -18,4 +18,4 @@ Seeded IID bootstrap resamples returns with replacement and reports path objects
 
 ## Tests and CI
 
-Tests use synthetic inputs and a socket guard. No credentials, IB software or data downloads are needed. CI installs pytest and runs the same test, demo and publication-scan commands. Dependency installation and GitHub Actions provisioning require network access; evaluation itself does not. Hosted CI status remains unknown until publication is approved and a workflow actually runs.
+Tests use synthetic inputs and a socket guard. No credentials, IB software or data downloads are needed. CI installs pytest and runs the same test, demo and publication-scan commands. Dependency installation and GitHub Actions provisioning require network access; evaluation itself does not. The initial published implementation passed hosted CI on Python 3.11–3.13; see [Actions](https://github.com/TaylorYam/QuantCore-Public/actions) for current results.

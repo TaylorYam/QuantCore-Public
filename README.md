@@ -1,5 +1,7 @@
 # QuantCore
 
+[![Offline checks](https://github.com/TaylorYam/QuantCore-Public/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/TaylorYam/QuantCore-Public/actions/workflows/ci.yml)
+
 A personal systematic trading infrastructure project built to research, test, and automate multi-market trading strategies.
 
 This public edition demonstrates **AI-assisted systematic trading infrastructure** through a small, runnable Python system. All data, sizing examples and strategy rules here are artificial. It is an independently authored engineering demonstration, not a copy of a deployed trading system.

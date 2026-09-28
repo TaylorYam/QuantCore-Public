@@ -24,5 +24,5 @@ The toy strategy and arbitrary synthetic example settings are unrelated to deplo
 - No live secrets, real Account information, production configuration or real-money performance figures were identified in the newly authored candidate.
 - No original strategy implementations or parameter combinations were copied.
 - Original tracked-file fingerprints and working-tree status were unchanged after the work.
-- GitHub Actions workflow is provided for Python 3.11–3.13. Hosted CI has **not run**; only Python 3.13 was tested locally.
+- GitHub Actions passed on Python 3.11, 3.12 and 3.13 for the initial published implementation: [verified run](https://github.com/TaylorYam/QuantCore-Public/actions/runs/36410990203). See [Actions](https://github.com/TaylorYam/QuantCore-Public/actions) for subsequent revisions.
 - The owner approved the final audit, MIT license and public GitHub publication. The initial release uses fresh history and GitHub no-reply commit metadata; no private history is imported.
